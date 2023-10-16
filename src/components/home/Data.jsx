@@ -6,7 +6,7 @@ const Data = () => {
         <div className="home-data">
             <h1 className="home-title">Angelo Lee Salenga</h1>
             <h2 className="home-sub ">Front-End Developer</h2>
-            <p className="home-desc ">I'm Web Developer based on Pampanga, and I'm passionate and dedicated to my work.</p>
+            <p className="home-desc ">I'm a Web Developer based on Pampanga, and I'm passionate and dedicated to my work.</p>
             <a download="" href={CV} className='button button--flex'>Download CV
             <svg class = "button__icon"xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" viewBox="0 0 24 24" id="download-alt" width="22"
                 height="24"
