@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c33252cc.css",
-    "main.js": "/static/js/main.558df347.js",
-    "static/css/611.ba0ef340.chunk.css": "/static/css/611.ba0ef340.chunk.css",
-    "static/js/611.7a60a810.chunk.js": "/static/js/611.7a60a810.chunk.js",
-    "static/media/booking.png": "/static/media/booking.832000aa9ece2e61dd1e.png",
-    "static/media/aboutme1.JPG": "/static/media/aboutme1.97be8afc1d2a3e2e874a.JPG",
-    "static/media/profile1.jpg": "/static/media/profile1.248199883f4834678774.jpg",
-    "static/media/wesite.png": "/static/media/wesite.debb6fb5e72ded7cb954.png",
-    "static/media/MyCV.pdf": "/static/media/MyCV.9686db70fddebbc04bc0.pdf",
-    "static/media/react-logo-7B3CE81517-seeklogo.com.png": "/static/media/react-logo-7B3CE81517-seeklogo.com.3b492bade043821ded42.png",
-    "index.html": "/index.html",
-    "main.c33252cc.css.map": "/static/css/main.c33252cc.css.map",
-    "main.558df347.js.map": "/static/js/main.558df347.js.map",
-    "611.ba0ef340.chunk.css.map": "/static/css/611.ba0ef340.chunk.css.map",
-    "611.7a60a810.chunk.js.map": "/static/js/611.7a60a810.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.1b342f10.css",
+    "main.js": "/my-portfolio/static/js/main.153026ee.js",
+    "static/css/611.ba0ef340.chunk.css": "/my-portfolio/static/css/611.ba0ef340.chunk.css",
+    "static/js/611.7a60a810.chunk.js": "/my-portfolio/static/js/611.7a60a810.chunk.js",
+    "static/media/booking.png": "/my-portfolio/static/media/booking.832000aa9ece2e61dd1e.png",
+    "static/media/aboutme1.JPG": "/my-portfolio/static/media/aboutme1.97be8afc1d2a3e2e874a.JPG",
+    "static/media/profile1.jpg": "/my-portfolio/static/media/profile1.248199883f4834678774.jpg",
+    "static/media/wesite.png": "/my-portfolio/static/media/wesite.debb6fb5e72ded7cb954.png",
+    "static/media/MyCV.pdf": "/my-portfolio/static/media/MyCV.9686db70fddebbc04bc0.pdf",
+    "static/media/react-logo-7B3CE81517-seeklogo.com.png": "/my-portfolio/static/media/react-logo-7B3CE81517-seeklogo.com.3b492bade043821ded42.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.1b342f10.css.map": "/my-portfolio/static/css/main.1b342f10.css.map",
+    "main.153026ee.js.map": "/my-portfolio/static/js/main.153026ee.js.map",
+    "611.ba0ef340.chunk.css.map": "/my-portfolio/static/css/611.ba0ef340.chunk.css.map",
+    "611.7a60a810.chunk.js.map": "/my-portfolio/static/js/611.7a60a810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c33252cc.css",
-    "static/js/main.558df347.js"
+    "static/css/main.1b342f10.css",
+    "static/js/main.153026ee.js"
   ]
 }
