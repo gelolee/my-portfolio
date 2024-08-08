@@ -5,7 +5,9 @@ import SkillImg1 from '../../assets/css.png'
 import SkillImg2 from '../../assets/js.png'
 import SkillImg3 from '../../assets/php.png'
 import SkillImg4 from '../../assets/mysql.png'
-import SkillImg5 from '../../assets/react-logo-7B3CE81517-seeklogo.com.png'
+import SkillImg5 from '../../assets/wordpress.png'
+import SkillImg6 from '../../assets/drupal.png'
+import SkillImg7 from '../../assets/react-logo-7B3CE81517-seeklogo.com.png'
 
 const Skill = () => {
   return (
@@ -15,7 +17,7 @@ const Skill = () => {
              <div className="box-container">
                <div className="box-prog">
                <img src={SkillImg} alt='' className='img' />
-                </div> 
+               </div> 
 
                 <div className="box-prog">
                <img src={SkillImg1} alt='' className='img' />
@@ -35,6 +37,14 @@ const Skill = () => {
 
                 <div className="box-prog">
                <img src={SkillImg5} alt='' className='img' />
+                </div>
+
+                <div className="box-prog">
+               <img src={SkillImg6} alt='' className='img' />
+                </div> 
+
+                <div className="box-prog">
+               <img src={SkillImg7} alt='' className='img' />
                 </div> 
             <div className="skill-box">
               </div>
