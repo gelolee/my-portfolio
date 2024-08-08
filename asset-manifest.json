@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.1b342f10.css",
-    "main.js": "/my-portfolio/static/js/main.153026ee.js",
+    "main.css": "/my-portfolio/static/css/main.71c47596.css",
+    "main.js": "/my-portfolio/static/js/main.1b8fe68d.js",
     "static/css/611.ba0ef340.chunk.css": "/my-portfolio/static/css/611.ba0ef340.chunk.css",
     "static/js/611.7a60a810.chunk.js": "/my-portfolio/static/js/611.7a60a810.chunk.js",
     "static/media/booking.png": "/my-portfolio/static/media/booking.832000aa9ece2e61dd1e.png",
+    "static/media/powercity_web.png": "/my-portfolio/static/media/powercity_web.7359e0aef898c96e9f3a.png",
     "static/media/aboutme1.JPG": "/my-portfolio/static/media/aboutme1.97be8afc1d2a3e2e874a.JPG",
+    "static/media/ecommerce.png": "/my-portfolio/static/media/ecommerce.e0cb5b4fe81b1a310a62.png",
     "static/media/profile1.jpg": "/my-portfolio/static/media/profile1.248199883f4834678774.jpg",
     "static/media/wesite.png": "/my-portfolio/static/media/wesite.debb6fb5e72ded7cb954.png",
     "static/media/MyCV.pdf": "/my-portfolio/static/media/MyCV.9686db70fddebbc04bc0.pdf",
+    "static/media/wordpress.png": "/my-portfolio/static/media/wordpress.f415956dc7a056087e39.png",
+    "static/media/drupal.png": "/my-portfolio/static/media/drupal.7c12dfc39dea37d7c9aa.png",
     "static/media/react-logo-7B3CE81517-seeklogo.com.png": "/my-portfolio/static/media/react-logo-7B3CE81517-seeklogo.com.3b492bade043821ded42.png",
     "index.html": "/my-portfolio/index.html",
-    "main.1b342f10.css.map": "/my-portfolio/static/css/main.1b342f10.css.map",
-    "main.153026ee.js.map": "/my-portfolio/static/js/main.153026ee.js.map",
+    "main.71c47596.css.map": "/my-portfolio/static/css/main.71c47596.css.map",
+    "main.1b8fe68d.js.map": "/my-portfolio/static/js/main.1b8fe68d.js.map",
     "611.ba0ef340.chunk.css.map": "/my-portfolio/static/css/611.ba0ef340.chunk.css.map",
     "611.7a60a810.chunk.js.map": "/my-portfolio/static/js/611.7a60a810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b342f10.css",
-    "static/js/main.153026ee.js"
+    "static/css/main.71c47596.css",
+    "static/js/main.1b8fe68d.js"
   ]
 }
