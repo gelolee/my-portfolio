@@ -10,7 +10,7 @@ const About = () => {
             <img src={AboutImg} alt='' className='about-img' />
             <div className="about-data">
                 <p className="about-description">
-                Hello, I'm Angelo, a passionate and creative web developer ready to embark on an exciting journey in the world of technology. As a recent graduate with a degree in Bachelor of Science in Computer Engineering, I am enthusiastic about harnessing the power of code to build innovative and user-friendly web experiences.
+                Dynamic and creative Front End Developer / WordPress Developer with over 6 months of experience designing, developing, and maintaining user-friendly and responsive websites. Proficient in HTML, CSS, JavaScript, and PHP, with a strong focus on WordPress development. Adept at translating client requirements into functional, aesthetically pleasing digital solutions. Passionate about clean code, web performance, and user experience (UX).
                 </p>
             </div>
         </div>
