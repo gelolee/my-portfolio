@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.71c47596.css",
-    "main.js": "/my-portfolio/static/js/main.c2f4d4b9.js",
+    "main.js": "/my-portfolio/static/js/main.f9e1366d.js",
     "static/css/611.ba0ef340.chunk.css": "/my-portfolio/static/css/611.ba0ef340.chunk.css",
     "static/js/611.7a60a810.chunk.js": "/my-portfolio/static/js/611.7a60a810.chunk.js",
     "static/media/booking.png": "/my-portfolio/static/media/booking.832000aa9ece2e61dd1e.png",
@@ -14,14 +14,15 @@
     "static/media/wordpress.png": "/my-portfolio/static/media/wordpress.f415956dc7a056087e39.png",
     "static/media/drupal.png": "/my-portfolio/static/media/drupal.7c12dfc39dea37d7c9aa.png",
     "static/media/react-logo-7B3CE81517-seeklogo.com.png": "/my-portfolio/static/media/react-logo-7B3CE81517-seeklogo.com.3b492bade043821ded42.png",
+    "static/media/bootstrap.png": "/my-portfolio/static/media/bootstrap.5f221ec70518e4c64eaa.png",
     "index.html": "/my-portfolio/index.html",
     "main.71c47596.css.map": "/my-portfolio/static/css/main.71c47596.css.map",
-    "main.c2f4d4b9.js.map": "/my-portfolio/static/js/main.c2f4d4b9.js.map",
+    "main.f9e1366d.js.map": "/my-portfolio/static/js/main.f9e1366d.js.map",
     "611.ba0ef340.chunk.css.map": "/my-portfolio/static/css/611.ba0ef340.chunk.css.map",
     "611.7a60a810.chunk.js.map": "/my-portfolio/static/js/611.7a60a810.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71c47596.css",
-    "static/js/main.c2f4d4b9.js"
+    "static/js/main.f9e1366d.js"
   ]
 }
