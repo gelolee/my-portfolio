@@ -1,68 +1,54 @@
 import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faViber } from "@fortawesome/free-brands-svg-icons"
+import { faGoogle } from "@fortawesome/free-brands-svg-icons"
 import './contact.css';
 
 const Contact = () => {
   return (
     <section className="contact section" id='contact'>
         <h2 className="section-title">Contacts</h2>
-
         <div className="contact-container container grid">
             <div className="contact-content">
                 <h2 className="contact-title">Hit me up!</h2>
                 <div className="contact-info">
                     <div className="contact-card">
-                       <i className="bx bx-envelope contact-card-icon"></i>
-
-                       <h3 className="contact-card-title">Email</h3> 
-                       <span className="contact-card-data">cpe.angelosalenga@gmail.com</span>
-
-    
+                      <FontAwesomeIcon icon={faGoogle} size="2x" color="#DB4437" />
+                      <h3 className="contact-card-title">Gmail</h3> 
+                      <span className="contact-card-data">cpe.angelosalenga@gmail.com</span>
                     </div>
-
-
                     <div className="contact-card">
-                       <i className="bx bxl-telegram tele-card-icon"></i>
-
-                       <h3 className="contact-card-title">Telegram</h3> 
-                       <span className="contact-card-data">0950-246-2397</span>
-
-                     
+                      <FontAwesomeIcon icon={faViber} size="2x" color="#7360f2" />
+                      <h3 className="contact-card-title">Viber</h3> 
+                      <span className="contact-card-data">0950-246-2397</span>
                     </div>
-
                     <div className="contact-card">
-                       <i className="bx bxl-messenger messe-card-icon"></i>
-
-                       <h3 className="contact-card-title">Messenger</h3> 
-                       <span className="contact-card-data">im.angelolee</span>
-
-        
+                      <i className="bx bxl-messenger messe-card-icon"></i>
+                      <h3 className="contact-card-title">Messenger</h3> 
+                      <span className="contact-card-data">im.angelolee</span>
                     </div>
                 </div>
             </div>
-
             <div className="contact-content">
                 <h2 className="contact-title">Email Me</h2>
-
                 <form action="" className="contact-form">
                     <div className="contact-form-div">
                         <input type="text" name="name"
                         className='contact-form-input'
                         placeholder='Name'/>
                     </div>
-
                     <div className="contact-form-div">
                         <input type="email" name="email"
                         className='contact-form-input'
                         placeholder='Email'/>
                     </div>
-
                     <div className="contact-form-div contact-form-area">
                         <textarea name="message" cols="30" rows="10"
                         className='contact-form-input' placeholder='Write your message here'></textarea>
                     </div>
                     <button className="button button--flex">
                         Send Message<svg
-                  class="button__icon"
+                  className="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
                   height="24"

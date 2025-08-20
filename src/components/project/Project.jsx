@@ -5,11 +5,8 @@ import Work from './Work';
 const Project = () => {
   return (
     <section className="project section" id = 'project'>
-        <h2 className="section-title">Projects
-        
+        <h2 className="project-section-title container">Recent Projects</h2>
         <Work />
-
-        </h2>
     </section>
   )
 }

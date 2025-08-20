@@ -8,9 +8,7 @@ const Home = () => {
     <section className="section" id="home">
         <div className="home-container container grid">
             <div className="home-content grid">
-
                 <div className="home-img"></div>
-                
                 <Data />
             </div>
             <Scroll />

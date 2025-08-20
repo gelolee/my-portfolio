@@ -15,41 +15,33 @@ const Skill = () => {
     <div className="skill-container container">
         <div className="skill-content">
             <h3 className="skill-title">Technology Stacks</h3>
-             <div className="box-container">
-               <div className="box-prog">
-               <img src={SkillImg} alt='' className='img' />
-               </div> 
-
+            <div className="box-container">
+              <div className="box-prog">
+              <img src={SkillImg} alt='' className='img' />
+              </div> 
                 <div className="box-prog">
-               <img src={SkillImg1} alt='' className='img' />
+              <img src={SkillImg1} alt='' className='img' />
                 </div> 
-
                 <div className="box-prog">
-               <img src={SkillImg2} alt='' className='img' />
+              <img src={SkillImg2} alt='' className='img' />
                 </div> 
-
                 <div className="box-prog">
-               <img src={SkillImg3} alt='' className='img' />
+              <img src={SkillImg3} alt='' className='img' />
                 </div> 
-
                 <div className="box-prog">
-               <img src={SkillImg4} alt='' className='img' />
+              <img src={SkillImg4} alt='' className='img' />
                 </div> 
-
                 <div className="box-prog">
-               <img src={SkillImg5} alt='' className='img' />
+              <img src={SkillImg5} alt='' className='img' />
                 </div>
-
                 <div className="box-prog">
-               <img src={SkillImg6} alt='' className='img' />
+              <img src={SkillImg6} alt='' className='img' />
                 </div> 
-
                 <div className="box-prog">
-               <img src={SkillImg7} alt='' className='img' />
+              <img src={SkillImg7} alt='' className='img' />
                 </div>
-
                 <div className="box-prog">
-               <img src={SkillImg8} alt='' className='img' />
+              <img src={SkillImg8} alt='' className='img' />
                 </div>
             <div className="skill-box">
               </div>
