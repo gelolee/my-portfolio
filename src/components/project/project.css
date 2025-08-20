@@ -1,10 +1,12 @@
 .work-container{ grid-template-columns: repeat(1, max-conent); justify-content: center; margin-top: 1.5rem;}
-.work-card{ background-color: var(--proj-card); border: 1px solid rgba(0, 0, 0, .5); border-color: var(--card-line); padding: 16px; border-radius: 1rem; display: flex; flex-direction: column; justify-content: space-around }
+.work-card{ display: flex; flex-direction: column; justify-content: space-around; margin-bottom: 2rem; }
 .project-section-title{ font-size: 2.5rem; color: var(--h1h2) }
-.desc-btn{ display: flex; justify-content: space-between }
-.zoom{ overflow: hidden; border-radius: 1rem; width: auto; height: 87% }
-.project-img{ cursor: pointer; transition: all .5s ease-in-out; border-radius: .5rem }
-.project-img:hover{transform: scale(1.4);}
+.desc-btn{ display: flex; justify-content: space-between; border: 1px solid; padding: 15px 5px; border-color: var(--card-line); border-radius:0 0 10px 10px; }
+.zoom{ overflow: hidden; display: flex; border-radius: 10px 10px 0 0;}
+.project-img{ cursor: pointer; transition: all .3s linear; filter: grayscale(0); }
+.project-img:hover{transform: scale(1.1);}
+.work-card:hover .project-img {filter: grayscale(0);}
+.work-container:hover .work-card:not(:hover) .project-img {filter: grayscale(100%);}
 .work-title{ font-size: 1.5rem; font-weight: bolder; color: var(--card-title) }
 .work-button{ color: var(--proj-btn); font-size: 1.1rem; display: flex; align-items: center; column-gap: .25rem }
 .work-button-icon{ font-size: 1.5rem; transition: .4s;}

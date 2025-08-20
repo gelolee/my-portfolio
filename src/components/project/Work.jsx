@@ -7,7 +7,7 @@ import ProjectImg3 from '../../assets/powercity_web.png'
 
 const Work = () => {
 return (
-    <div className="work-container container grid">
+    <div className="work-container container">
         <div className="work-card">
             <div className="zoom">
             <img src={ProjectImg3} alt='' className='project-img' />
