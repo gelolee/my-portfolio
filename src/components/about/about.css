@@ -1,10 +1,18 @@
 .about-section{background-color: rgba(71, 71, 71, 0.11);}
-.about-container{ grid-template-columns: repeat(2, 1fr); align-items: center; column-gap: 3rem;}
+.about-container{ grid-template-columns: repeat(2, 1fr); column-gap: 3rem;}
 .about-img{ width: 350px; border-radius: 1rem; justify-self: center;}
 .about-description{ padding: 3 1rem; font-size: 1.125rem; line-height: 1.7; margin-bottom: 1.5rem;}
 .skills-title { display: flex; flex-wrap: wrap; gap: .375rem;}
 .skills-title span{ border: solid 1px; line-height: 1rem; border-radius: .375rem; padding-block: .125rem; padding-inline: .5rem;}
 .about-section-title{ font-size: 2rem; color: var(--h1h2);}
+.skills-categories {display: flex;flex-direction: column;gap: 1rem;margin-top: 1rem;}
+.category-title { font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; margin-bottom: 0.4rem; }
+.skills-list {display: flex;flex-wrap: wrap;gap: 0.5rem;}
+.skill-badge {display: inline-block; padding: 0.3rem 0.75rem; font-size: 0.85rem;color: #374151; background-color: transparent; border: 1px solid #d1d5db;border-radius: 0.5rem;transition: background-color 0.3s, color 0.3s;}
+
+
+
+
 
 @media screen and (max-width: 992px) {
   .container { margin-left: var(--mb-1-5); margin-right: var(--mb-1-5);}
