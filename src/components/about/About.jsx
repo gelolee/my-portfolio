@@ -43,7 +43,7 @@ const About = () => {
             I’m a Web & Mobile Developer focused on translating complex requirements and visual designs into clean, high-performance digital products. With a strong engineering foundation across web platforms and mobile applications, I specialize in building robust frontend interfaces, smooth user experiences, and scalable backend logic. Whether engineering full-stack applications or optimizing digital infrastructure, I leverage modern development practices and AI-assisted workflows to build reliable, maintainable code.
           </p>
         </div>
-        <div className="tech-stacks-container">
+        <div className="-stacks-container">
             <h3 className="about-section-title">Tech Stacks</h3>
             
             <div className="skills-categories">

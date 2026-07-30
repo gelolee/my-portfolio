@@ -3,7 +3,8 @@
 .project-section-title{ font-size: 2.5rem; color: var(--h1h2); margin-bottom: 1.5rem; }
 .desc-btn{ width: 50%; display: flex; justify-content: center; flex-direction: column; border-radius:0 0 10px 10px; }
 .zoom{ width: 50%; overflow: hidden; display: flex; border-radius: 10px 10px 0 0; justify-content: center;}
-.mb-2{ margin-bottom: 1rem; }
+.mb-2{ margin-bottom: 1rem; margin-top: 8px; }
+.work-card .skill-badge { background: hsl(0deg 0% 20% / 18%)}
 .project-img{ cursor: pointer; transition: all .3s linear; filter: grayscale(0); }
 .project-img:hover{transform: scale(1.1);}
 .work-card:hover .project-img {filter: grayscale(0);}
