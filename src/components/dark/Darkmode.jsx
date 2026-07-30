@@ -34,7 +34,7 @@ const Darkmode = () => {
     }
 
   return (
-    <button className={theme === "dark" ? clickedClass : "" } id='darkMode' onClick={(e) => switchTheme(e)}></button>
+    <button className={theme === "dark" ? clickedClass : ""} id="darkMode" onClick={switchTheme}aria-label="Toggle dark mode"><span className="sr-only">Toggle dark mode</span></button>
   )
 }
 

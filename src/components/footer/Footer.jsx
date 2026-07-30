@@ -14,9 +14,9 @@ return (
                     <h2 className='footer-logo'> A.L.S </h2>
                 </div>
                 <div className="footer-social d-flex">
-                    <a href='https://www.facebook.com/im.angelolee' className='' target='_blank' rel="noopener noreferrer"><i className='uil uil-facebook-f'></i></a>
-                    <a href='https://www.instagram.com/gelo_lee/' className='' target='_blank' rel="noopener noreferrer"><i className='uil uil-instagram-alt'></i></a>
-                    <a href='viber://chat?number=%2B639502462397' className='' target='_blank' rel="noopener noreferrer"><FontAwesomeIcon icon={faViber} /></a>
+                    <a href='https://www.facebook.com/im.angelolee' className='' target='_blank' rel="noopener noreferrer" aria-label="Visit my Facebook profile"><i className='uil uil-facebook-f'></i></a>
+                    <a href='https://www.instagram.com/gelo_lee/' className='' target='_blank' rel="noopener noreferrer" aria-label="Visit my Instagram profile"><i className='uil uil-instagram-alt'></i></a>
+                    <a href='viber://chat?number=%2B639502462397' className='' target='_blank' rel="noopener noreferrer" aria-label="Contact me on Viber"><FontAwesomeIcon icon={faViber} /></a>
                 </div>
                 </div> 
             </div>

@@ -15,15 +15,15 @@ return (
 </path></svg>
             </a>
             <div className='socmed'>
-            <a href='https://www.facebook.com/im.angelolee' className='home-soc-icon' target='_blank'  rel="noopener noreferrer">
+            <a href='https://www.facebook.com/im.angelolee' className='home-soc-icon' target='_blank'  rel="noopener noreferrer" aria-label="Visit my Facebook profile">
                 <i className="uil uil-facebook-f"></i>
             </a>
 
-            <a href='https://www.linkedin.com/in/angelo-salenga-a7032428a/' className='home-soc-icon' target='_blank' rel="noopener noreferrer">
+            <a href='https://www.linkedin.com/in/angelo-salenga-a7032428a/' className='home-soc-icon' target='_blank' rel="noopener noreferrer" aria-label="Visit my LinkedIn profile">
                 <i className="uil uil-linkedin-alt"></i>
             </a>
 
-            <a href='https://github.com/gelolee' className='home-soc-icon' target='_blank'  rel="noopener noreferrer">
+            <a href='https://github.com/gelolee' className='home-soc-icon' target='_blank'  rel="noopener noreferrer" aria-label="Visit my GitHub profile">
                 <i className="uil uil-github-alt"></i>
             </a>
             </div>
