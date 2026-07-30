@@ -7,7 +7,7 @@ return (
             <h1 className="home-title">Angelo Lee Salenga</h1>
             <h2 className="home-sub ">Front-End Developer</h2>
             <p className="home-desc ">I'm a Web Developer based on Pampanga, and I'm passionate and dedicated to my work.</p>
-            <a download="" href={CV} className='button button--flex'>Download CV
+            <a download="Angelo_Lee_Salenga_CV.pdf" href={CV} className='button button--flex'>Download CV
             <svg className = "button__icon"xmlns="http://www.w3.org/2000/svg" enableBackground="new 0 0 24 24" viewBox="0 0 24 24" id="download-alt" width="22"
                 height="24"
                 fill="none">
